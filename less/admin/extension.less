@@ -1,0 +1,32 @@
+.LlmsTxtSettingsPage {
+  .LlmsTxtSettingsPage-urls {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 8px;
+  }
+
+  .LlmsTxtSettingsPage-url {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    code {
+      background: var(--control-bg);
+      padding: 4px 10px;
+      border-radius: 4px;
+      font-size: 13px;
+      flex: 1;
+    }
+
+    .Button--icon {
+      flex-shrink: 0;
+    }
+  }
+
+  hr {
+    margin: 20px 0;
+    border: none;
+    border-top: 1px solid var(--control-bg);
+  }
+}
