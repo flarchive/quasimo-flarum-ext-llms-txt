@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of quasimo/flarum-ext-llms-txt.** Not for installation: use [Packagist](https://packagist.org/packages/quasimo/flarum-ext-llms-txt) or the [upstream repository](https://github.com/Quasimo/flarum-ext-llms-txt).
 
-**0** versions archived · Latest: [`v2.0.6`](https://github.com/flarchive/quasimo-flarum-ext-llms-txt/tree/archive/v2.0.6) · License: `MIT` · Flarum: `^1.8 || ^2.0`
+**8** versions archived · Latest: [`v2.0.6`](https://github.com/flarchive/quasimo-flarum-ext-llms-txt/tree/archive/v2.0.6) · License: `MIT` · Flarum: `^1.8 || ^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-03-07 | `^1.8` | [Browse](https://github.com/flarchive/quasimo-flarum-ext-llms-txt/tree/archive/v1.0.0) |
+| `v1.0.4` | 2026-03-07 | `^1.8` | [Browse](https://github.com/flarchive/quasimo-flarum-ext-llms-txt/tree/archive/v1.0.4) |
+| `v2.0.0` | 2026-04-04 | `^2.0` | [Browse](https://github.com/flarchive/quasimo-flarum-ext-llms-txt/tree/archive/v2.0.0) |
+| `v2.0.1` | 2026-04-05 | `^1.8 || ^2.0` | [Browse](https://github.com/flarchive/quasimo-flarum-ext-llms-txt/tree/archive/v2.0.1) |
+| `v2.0.2` | 2026-04-05 | `^1.8 || ^2.0` | [Browse](https://github.com/flarchive/quasimo-flarum-ext-llms-txt/tree/archive/v2.0.2) |
+| `v2.0.4` | 2026-04-05 | `^1.8 || ^2.0` | [Browse](https://github.com/flarchive/quasimo-flarum-ext-llms-txt/tree/archive/v2.0.4) |
+| `v2.0.5` | 2026-04-05 | `^1.8 || ^2.0` | [Browse](https://github.com/flarchive/quasimo-flarum-ext-llms-txt/tree/archive/v2.0.5) |
+| `v2.0.6` | 2026-04-05 | `^1.8 || ^2.0` | [Browse](https://github.com/flarchive/quasimo-flarum-ext-llms-txt/tree/archive/v2.0.6) |
 
 Catalog entry: [packages/quasimo-flarum-ext-llms-txt.json](https://github.com/flarchive/archive-index/blob/main/packages/quasimo-flarum-ext-llms-txt.json)
 
